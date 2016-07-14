@@ -9,7 +9,7 @@ node {
 
 stage 'CLONE CASCADING'
 node{
-    git 'https://github.com/akankshaguha/CascadingProjectJenkins1.git'
+    git 'https://github.com/akankshaguha/Assignment1trail.git'
 }
 
 stage 'CLEAN PROJECT'
